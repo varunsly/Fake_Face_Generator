@@ -23,9 +23,6 @@ In this model, the samll set of data from the original data of the Celeb Pics is
 
 * **The model is trained for only 30 epochs because after 30 epochs my GPU run outs of memory**
 
-* **Right Now, Learning more about the Pytorch as I find it less flexible**
-
-* **The same method will be implemneted using Keras to check whether Pytorch is better implemnetation or the Keras**
 
 
 
